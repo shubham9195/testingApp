@@ -1,0 +1,10 @@
+.dataTable{
+  display: flex;
+  align-items:center;
+  flex-direction: row;
+}
+.button{
+  border: 1px solid #eee;
+  border: none;
+  padding:10px
+}
